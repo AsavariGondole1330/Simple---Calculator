@@ -1,11 +1,13 @@
 ✨ TECH WINTER BREAK 2024 ✨
 
 Welcome to TECH WINTER BREAK hosted by Google Developer Group (GDG) on Campus PRPCEM! 🚀 This repository serves as a common space for participants to collaborate, learn, and showcase their Web development projects. 💻📱
+
 -----------------------------------------------------
 
 🌟 Event Overview
 
 TECH WINTER BREAK is a unique initiative by GDG on Campus PRPCEM in collaboration with Google, aimed at fostering innovation and hands-on learning in Web development. This event is part of our mission to empower students with industry-relevant skills and practical experience. 🌐📖
+
 ----------------------------------------------------------------
 
 🛠️ Workshop Details
