@@ -1,4 +1,5 @@
-✨ TECH WINTER BREAK 2024 ✨
+✨ TECH WINTER BREAK 2024
+--------------------------
 
 Welcome to TECH WINTER BREAK hosted by Google Developer Group (GDG) on Campus PRPCEM! 🚀 This repository serves as a common space for participants to collaborate, learn, and showcase their Web development projects. 💻📱
 
@@ -40,6 +41,7 @@ Responsive Design: Adaptable for various screen sizes. 📐
 Core Functionalities: HTML, CSS, and JavaScript-based dynamic components. ✅
 
 Interactive Elements: Engaging and functional designs. 🎮
+
 ---------------------------------------------------------------------
 
 💻 Technologies Used
